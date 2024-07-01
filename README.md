@@ -37,3 +37,18 @@ This project is a dynamic web application for managing course grades. It allows 
 2. **Adding Assignments**: Within each course section, click "Add Assignment" to insert a new assignment row. Enter the assignment weight (in percentage) and grade.
 
 3. **Calculating Grades**: After entering assignment weights and grades for a course, click "Calculate Grade" to see the weighted average grade displayed.
+
+
+## Demo
+
+### Add Course
+
+![addCourse](https://github.com/tahakh03/Course-Grade-Calculator/blob/main/addCourse.gif)
+
+### Add Assignment
+
+![addAssignment](https://github.com/tahakh03/Course-Grade-Calculator/blob/main/addAssignment.gif)
+
+### Calculate Grade
+
+![calculateGrade](https://github.com/tahakh03/Course-Grade-Calculator/blob/main/calculateGrade.gif)
