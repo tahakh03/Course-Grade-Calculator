@@ -43,11 +43,12 @@ This project is a dynamic web application for managing course grades. It allows 
 
 ### Add Course
 
-![addCourse](https://github.com/tahakh03/Course-Grade-Calculator/blob/main/addCourse.gif)
+![addAssignment](https://github.com/tahakh03/Course-Grade-Calculator/blob/main/addAssignment.gif)
 
 ### Add Assignment
 
-![addAssignment](https://github.com/tahakh03/Course-Grade-Calculator/blob/main/addAssignment.gif)
+![addCourse](https://github.com/tahakh03/Course-Grade-Calculator/blob/main/addCourse.gif)
+
 
 ### Calculate Grade
 
